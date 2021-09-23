@@ -3,6 +3,10 @@
     text-decoration: none;
 }
 
+/* .container-fluid{
+    width: 100vw;
+} */
+
 .link:hover{
     text-decoration: none;
     color: yellow;

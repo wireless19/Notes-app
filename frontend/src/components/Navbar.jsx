@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import "./Navbar.css";
 
 function Navbar() {
-    return <nav className="navbar bg-dark container">
+    return <nav className="navbar bg-dark container-fluid">
         <h4><NavLink exact className="link" to="/" activeStyle={{
             fontWeight: "bold",
             color: "red"
